@@ -2,6 +2,9 @@
 
 This personal vimrc is based on [amix's Ultimate vimrc](https://github.com/amix/vimrc), and I have made some modification to meet myself's need (Thanks to amix!)
 
+## **Usage**
+- Simply reference to [amix's](https://github.com/amix/vimrc)
+
 ## **Modification**
 - Modify install_awsome_vimrc.sh
 > source ~/.vim_runtime/my_configs.vim
@@ -16,3 +19,5 @@ This personal vimrc is based on [amix's Ultimate vimrc](https://github.com/amix/
 > call pathogen#infect('~/.vim_runtime/sources_my/{}')
 
 - Add ~/.vim_runtime/sources_my/
+
+
